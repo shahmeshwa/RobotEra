@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>The Era of Robots in Control</title>
-<style>
-  .title-box {
-    font-size: 24px; /* Large font size */
-    color: blue; /* Blue text color */
-    border: 2px solid blue; /* Blue border */
-    padding: 10px; /* Padding inside the box */
-    display: inline-block; /* Ensures the box wraps around the content */
-    margin: 10px 0; /* Adds some space above and below the box */
-  }
 </style>
 </head>
 <body>
