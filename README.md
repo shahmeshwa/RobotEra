@@ -1,4 +1,3 @@
-</style>
 </head>
 <body>
 <h1 class="title-box">Welcome to the Era of Robots in Control</h1>
